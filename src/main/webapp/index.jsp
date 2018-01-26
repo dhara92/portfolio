@@ -115,31 +115,31 @@
                     </div>
                     <div class="col-sm-8 col-sm-offset-1">
                         <div class="margin-b-60">
-                            <p>I'm Alex Teseira, orem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                            <p>Database administrators (DBAs) use specialized software to store and organize data. The role may include capacity planning, installation, configuration, database design, migration, performance monitoring, security, troubleshooting, as well as backup and data recovery.</p>
+                            <p>I am DBA Specialize in IBM DB2, as well as I have strong knowledge of Oracle,MongoDB. It's been 3 and a half year since I am working as a DBA.  </p>
                         </div>
 
                         <!-- Progress Box -->
                         <div class="progress-box">
-                            <h5>PHP <span class="color-heading pull-right">87%</span></h5>
+                            <h5>Oracle <span class="color-heading pull-right">87%</span></h5>
                             <div class="progress">
                                 <div class="progress-bar bg-color-base" role="progressbar" data-width="87"></div>
                             </div>
                         </div>
                         <div class="progress-box">
-                            <h5>HTML5 <span class="color-heading pull-right">96%</span></h5>
+                            <h5>DB2 <span class="color-heading pull-right">96%</span></h5>
                             <div class="progress">
                                 <div class="progress-bar bg-color-base" role="progressbar" data-width="96"></div>
                             </div>
                         </div>
                         <div class="progress-box">
-                            <h5>JavaSript <span class="color-heading pull-right">52%</span></h5>
+                            <h5>MongoDB <span class="color-heading pull-right">52%</span></h5>
                             <div class="progress">
                                 <div class="progress-bar bg-color-base" role="progressbar" data-width="52"></div>
                             </div>
                         </div>
                         <div class="progress-box">
-                            <h5>Photoshop <span class="color-heading pull-right">77%</span></h5>
+                            <h5>Scripting <span class="color-heading pull-right">77%</span></h5>
                             <div class="progress">
                                 <div class="progress-bar bg-color-base" role="progressbar" data-width="77"></div>
                             </div>
@@ -444,19 +444,19 @@
                             <div class="row">
                                 <div class="col-md-3 col-xs-6 md-margin-b-30">
                                     <h5>Location</h5>
-                                    <a href="#">Brookyln, New York</a>
+                                    <a href="#">Mumbai,India</a>
                                 </div>
                                 <div class="col-md-3 col-xs-6 md-margin-b-30">
                                     <h5>Phone</h5>
-                                    <a href="#">+77 234 548 00 00</a>
+                                    <a href="#">+919540610825</a>
                                 </div>
                                 <div class="col-md-3 col-xs-6">
                                     <h5>Email</h5>
-                                    <a href="mailto:#">alex.teseira@gmail.com</a>
+                                    <a href="mailto:#">kalpeshpansheriya@gmail.com</a>
                                 </div>
                                 <div class="col-md-3 col-xs-6">
                                     <h5>Web</h5>
-                                    <a href="#">alex.teseira.com</a>
+                                    <a href="#"></a>
                                 </div>
                             </div>
                         </div>
@@ -473,7 +473,7 @@
             <div class="content container">
                 <div class="row">
                     <div class="col-xs-6">
-                        <img class="footer-logo" src="img/logo-dark.png" alt="Aircv Logo">
+                        <img class="footer-logo" src="resources/img/logo-dark.png" alt="Aircv Logo">
                     </div>
                     <div class="col-xs-6 text-right sm-text-left">
                         <p class="margin-b-0"><a class="fweight-700" href="http://keenthemes.com/preview/aircv/">Aircv</a> Theme Powered by: <a class="fweight-700" href="http://www.keenthemes.com/">KeenThemes.com</a></p>
